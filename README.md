@@ -4,7 +4,7 @@ mlr is a live sample-cutting platform.
 
 written by tehn
 
-!()[mlr.jpg]
+![](mlr.jpg)
 
 sound files are mapped across each row of the hardware interface where playback position is indicated by a lit pad.
 pressing a pad within a row jumps playback to this position. jumps are quantized according to a specified subdivision.
